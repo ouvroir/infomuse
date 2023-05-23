@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Le système de classification Info-Muse pour les musées de beaux-arts et d'arts décoratifs -->
+<!-- Définition des catégories et sous-catégories -->
+<!-- https://www.musees.qc.ca/fr/professionnel/guidesel/doccoll/fr/classificationarts/index.htm -->
+<!-- Fichier rétroconverti par Emmanuel Chateau-Dutier pour l’Ouvroir d’histoire de l’art et de muséologie numérique, 2023 -->
+<file>
+    <head>
+        <title>Le système de classification Info-Muse pour les musées de beaux-arts et d'arts décoratifs</title>
+        <author>InfoMuse</author>
+        <idno>https://www.musees.qc.ca/fr/professionnel/guidesel/doccoll/fr/classificationarts/index.htm</idno>
+        <desc>
+            <p>Depuis 1995, le système de classification Info-Muse pour les collections de beaux-arts et d'arts décoratifs s'appuie sur l'Art &amp; Architecture Thesaurus (AAT)<note><p>THE GETTY ART HISTORY INFORMATION PROGRAM. <title>Art &amp; Architecture Thesaurus</title>, New York, Oxford University Press, 1994, 5 vol.</p></note>. Les responsables du AAT ont d'ailleurs approuvé son utilisation. Le système s'appuie sur le rigoureux travail de recherche effectué par Thérèse Labbé, alors consultante en muséologie, qui s'est acquittée de cette tâche avec succès pour le Réseau Info-Muse. Des représentants de la Fondation David M. Stewart, du Musée d'art contemporain de Montréal, du Musée David M. Stewart, du Musée des arts décoratifs de Montréal, du Musée des Sœurs grises de Montréal, du Musée du Québec, du RCIP et du Réseau Info-Muse avaient alors participé aux réflexions.</p>
+            <p>Le système a de nouveau été révisé en 2006 afin de refléter les changements reliés à la diversification des pratiques en art contemporain. Thérèse Labbé, recherchiste-documentaliste au Musée national des beaux-arts du Québec, a accepté d'animer un groupe de discussion sur le sujet. Des représentantes de la Galerie Leonard &amp; Bina Ellen, du ministère de la Culture et des Communications du Québec, du Musée d'art contemporain de Montréal, du Musée des beaux-arts de Montréal et de la Ville de Gatineau ont participé aux travaux.</p>
+            <p>Les deux subdivisions du sous-groupe « Art » de l'<title>AAT</title>, « Beaux-arts » et « Arts décoratifs », correspondent aux catégories du système de classification Info-Muse.</p>
+            <p>Les sous-catégories pour la catégorie « Beaux-arts » se rapportent aux diverses disciplines artistiques et les sous-catégories pour la catégorie « Arts décoratifs » font référence aux diverses familles ou groupes de métiers d'art et leur application à l'industrie<note><p>En 1995, cette section pour les arts décoratifs était basée en partie sur le système de classification élaboré pour le Musée du Québec.</p></note>.</p>
+            <p>Dans la liste qui suit, les termes précédés d'un chiffre sont les « catégories » et ils doivent être inscrits dans le champ Catégorie de l'objet. Les autres termes, qui représentent les « sous-catégories », doivent être inscrits dans le champ Sous-catégorie de l'objet.</p>
+        </desc>
+    </head>
+    <vocabulary>
+        <concept>
+            <label>Beaux-arts</label>
+            <note>Cette catégorie regroupe des œuvres d'art créées pour la contemplation. Cette production relève de diverses formes d'expression ou disciplines, lesquelles correspondent aux sous-catégories.</note>
+            <concept>
+                <label>Dessin</label>
+                <note>Œuvre d'art, le plus souvent bidimensionnelle, constituée principalement de tracés linéaires effectués directement sur la surface du support, généralement en papier. Cette sous-catégorie comprend les carnets de dessins, les albums contenant surtout des dessins, des collages, des silhouettes et des enluminures. Elle inclut également les dessins numériques.</note>
+            </concept>
+            <concept>
+                <label>Estampe</label>
+                <note>Œuvre d'art, le plus souvent bidimensionnelle, présentant une image imprimée à l'aide d'une plaque matrice ou de tout autre procédé d'impression, incluant le numérique. Cette sous-catégorie comprend également les albums d'estampes.</note>
+            </concept>
+            <concept>
+                <label>Fibre/Papier-matière</label>
+                <note>Œuvre d'art exécutée en papier ou autre fibre qu'elle soit animale, minérale, métallique, végétale ou synthétique. Elle est constituée de formes en creux, en aplat ou en relief plutôt que par un trait ou un signe graphique comme dans le dessin traditionnel, ce qui n'empêche pas la présence de matériaux ou de rehauts effectués à l'aide de médiums secs ou liquides.</note>
+            </concept>
+            <concept>
+                <label>Installation</label>
+                <note>Œuvre d'art contemporaine associant divers matériaux ou objets dans un espace donné qui fait partie intégrante de l'œuvre. L'installation est caractérisée par la pluridisciplinarité.</note>
+            </concept>
+            <concept>
+                <label>Livre/Album</label>
+                <note>Œuvre d'art se présentant sous forme de livre ou d'album. Cette sous-catégorie inclut les livres illustrés, les livres d'artistes, les livres-objets et les albums relevant de plus d'une discipline. Elle exclut les carnets de dessins qui seront classés dans la sous-catégorie « Dessin », les albums d'estampes qui seront classés dans la sous-catégorie « Estampe » ainsi que les albums de photographies qui seront classés dans la sous-catégorie « Photographie ».</note>
+            </concept>
+            <concept>
+                <label>Multimédia</label>
+                <note>Œuvre d'art réalisée à l'aide des technologies utilisant l'électronique, l'informatique ou les nouveaux moyens de communication, sauf si elle est subordonnée à une autre sous-catégorie.</note>
+            </concept>
+            <concept>
+                <label>Peinture</label>
+                <note>Œuvre d'art, le plus souvent bidimensionnelle, réalisée principalement par l'application d'un ou de plusieurs médiums secs ou liquides, par masse plus que par trait, sur un ou des supports généralement rigides.</note>
+            </concept>
+            <concept>
+                <label>Photographie</label>
+                <note>Œuvre d'art, le plus souvent bidimensionnelle, produite par l'action de la lumière ou de tout autre type d'énergie radiante sur une surface sensible. Cette sous-catégorie inclut les hologrammes et la photographie numérique.</note>
+            </concept>
+            <concept>
+                <label>Sculpture</label>
+                <note>Œuvre d'art en trois dimensions suggérant des formes, des représentations ou des volumes dans l'espace.
+                </note>
+            </concept>
+            <concept>
+                <label>Techniques mixtes</label>
+                <note>Œuvre d'art découlant de diverses techniques d'expression associées à au moins deux sous-catégories, sauf s'il y a dominance évidente d'une sous-catégorie sur les autres. Les médiums, les supports et les matériaux divers s'entremêlent souvent à des éléments tridimensionnels ou objets trouvés. Par contre, les collages ou les assemblages effectués de façon complémentaire ne sont pas nécessairement considérés comme des techniques mixtes. De même, l'installation se distingue de cette sous-catégorie par sa notion d'espace qui fait partie intégrante de l'œuvre.</note>
+            </concept>
+            <concept>
+                <label>Vidéo/Film</label>
+                <note>Œuvre d'art, découlant de l'enregistrement et du traitement d'images, accompagnées ou non de sons, réalisée à partir de moyens électroniques, sur support magnétique, sur pellicule ou sur support numérique.</note>
+            </concept>
+        </concept>
+        <concept>
+            <label>Arts décoratifs</label>
+            <note>Cette catégorie regroupe des objets qui servent à la décoration et des objets d'usage pratique ayant ou non une valeur esthétique. Les sous-catégories de la catégorie « Arts décoratifs » font référence aux diverses familles ou groupes de métiers d'art et leur application à l'industrie, ce qui n'exclut pas les productions individuelles. Les appellations des sous-catégories sous-entendent « Fabrication de » ou « Travail du ».</note>
+            <concept>
+                <label>Bijou</label>
+                <note>Objet créé pour être porté sur le corps humain ou sur les vêtements en tant qu'ornement. Cette sous-catégorie comprend les talismans ou amulettes auxquels on attribue des pouvoirs magiques.</note>
+            </concept>
+            <concept>
+                <label>Bois/Menuiserie d'art</label>
+                <label>Objet utilitaire relevant du travail du bois. Cette sous-catégorie inclut les ornements sculptés ou les reliefs appliqués sur des éléments d'architecture. Les meubles et objets d'ameublement sont associés à la sous-catégorie « Mobilier » et les objets relevant de la sculpture, comme les figures de proue, sont enregistrés dans la sous-catégorie « Sculpture » de la catégorie « Beaux-arts ».</label>
+            </concept>
+            <concept>
+                <label>Céramique</label>
+                <note>Objet créé à partir de l'argile ou tout autre produit qui en dérive (faïence, porcelaine, etc.). Certaines figurines en céramique, comme les figurines étrusques ou précolombiennes, doivent être associées à la sculpture. Cette restriction concerne aussi des pièces plus contemporaines, à l'exception des bibelots.</note>
+            </concept>
+            <concept>
+                <label>Costume</label>
+                <note>Objet constitué de fibres végétales, minérales, animales ou synthétiques et créé pour couvrir le corps humain. Cette sous-catégorie comprend les accessoires reliés à l'habillement.</note>
+            </concept>
+            <concept>
+                <label>Design industriel</label>
+                <note>Objet produit en série et créé à partir de méthodes industrielles visant un haut niveau de qualité formelle. Même si ce champ englobe tous les objets de l'environnement humain, on favorisera les sous-catégories reliées aux groupes traditionnels comme « Mobilier », « Bijou » et « Jeu/Jouet ».</note>
+            </concept>
+            <concept>
+                <label>Émaux</label>
+                <note>Objet obtenu par l'application sur une surface dure d'un vernis vitreux, chauffé et solidifié. Les émaux sont le plus souvent réalisés sur des plaques métalliques.</note>
+            </concept>
+            
+            <concept>
+                <label>Graphisme</label>
+                <note>Objet créé dans le but d'élaborer un concept ou une image pour attirer l'attention du public sur un produit, un service ou un événement et de susciter une réaction positive à l'égard des éléments promus. Cette sous-catégorie peut inclure, entre autres, des affiches ou sigles publicitaires, des images de marque et des logos d'entreprises.</note>
+            </concept>
+            <concept>
+                <label>Ivoire</label>
+                
+                <note>Objet usuel résultant du travail de l'ivoire. Les reliefs (diptyques, triptyques) et figures relevant de la sculpture doivent être enregistrés dans la sous-catégorie « Sculpture » et les peintures sur ivoire dans la sous-catégorie « Peinture », toutes deux de la catégorie « Beaux-arts ».</note>
+            </concept>
+            <concept>
+                <label>Jeu/Jouet</label>
+                <note>Objet créé pour le divertissement. Cette sous-catégorie englobe les jeux et les marionnettes.</note>
+            </concept>
+            <concept>
+                <label>Métaux</label>
+                <note>Objet créé à partir des métaux. Cette sous-catégorie englobe les armes et armures. Les objets en or, en argent ou en platine relèvent toutefois de la sous-catégorie « Orfèvrerie » alors que d'autres objets en métal seront associés aux sous-catégories « Bijou » et « Mobilier ».</note>
+            </concept>
+            <concept>
+                <label>Métiers divers</label>
+                <note>Objet dont le travail est exécuté de façon artisanale à partir de matières diverses et dont l'association ne peut être établie avec les autres sous-catégories.</note>
+            </concept>
+            <concept>
+                <label>Mobilier</label>
+                <note>Objet créé pour le confort des individus dans leur espace de vie et de travail. La sous-catégorie « Mobilier » englobe tous les objets qui concourent à l'aménagement des habitations et des locaux comme les chaises, les tables et les pupitres.</note>
+            </concept>
+            <concept>
+                <label>Mosaïque</label>
+                <note>Objet créé par l'assemblage de tesselles ou de petites pièces hétérogènes (émaux, marbre, pierre, smalt, terre cuite, verre, etc.) généralement retenues par un ciment et dont la combinaison forme un motif ou une image.</note>
+            </concept>
+            <concept>
+                <label>Numismatique</label>
+                <note>Objet, le plus souvent en métal frappé ou fondu, de forme caractéristique, utilisé comme moyen d'échange (monnaies), de commémoration (médailles) ou d'authentification (sceaux).</note>
+            </concept>
+            <concept>
+                <label>Orfèvrerie</label>
+                <note>Objet fabriqué par un orfèvre à partir de métaux précieux tels que l'or, l'argent et le platine. Ils peuvent être destinés à la décoration, à la parure, à l'exercice du culte, au service de la table ou autre usage domestique et servir aussi de moyen d'échange.</note>
+            </concept>
+            <concept>
+                <label>Papier peint</label>
+                <note>Objet ou papier créé pour orner les murs ou les boiseries. Ce travail, particulièrement associé à la décoration intérieure, relève des techniques d'impression.</note>
+            </concept>
+            <concept>
+                <label>Reliure</label>
+                <note>Objet créé dans le but de relier les feuillets d'un livre selon les méthodes artisanales. Cette production est souvent réservée au travail du cuir. Les livres d'artistes doivent être inclus à la sous-catégorie « Livre/Album » de la catégorie « Beaux-arts ».</note>
+            </concept>
+            <concept>
+                <label>Textile</label>
+                <note>Objet constitué de fibres ou de matières végétales, minérales, animales ou synthétiques, à l'exception de ceux associés à la sous-catégorie « Costume ». Ces ouvrages résultent de méthodes artisanales ou industrielles et sont destinés à la décoration des espaces habités.</note>
+            </concept>
+            <concept>
+                <label>Verre</label>
+                <note>Objet créé à partir du verre. Les pièces associées aux sous-catégories « Mobilier », « Vitrail » et « Mosaïque » en sont exclues.</note>
+            </concept>
+            <concept>
+                <label>Vitrail</label>
+                <note>Objet ou panneau dont la composition en transparence résulte d'un assemblage de pièces (surtout en verre) ou de plaques de verre colorées ou peintes.</note>
+            </concept>
+        </concept>
+    </vocabulary>
+</file>
